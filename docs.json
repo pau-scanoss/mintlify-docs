@@ -4,8 +4,8 @@
   "name": "Mint Starter Kit",
   "colors": {
     "primary": "#6366F1",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#6366F1",
+    "dark": "##6366F1"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -13,6 +13,12 @@
       {
         "tab": "Guides",
         "groups": [
+          {
+            "group": "Use Cases",
+            "pages": [
+              "use-cases/export-control"
+            ]
+          },
           {
             "group": "Getting started",
             "pages": [
