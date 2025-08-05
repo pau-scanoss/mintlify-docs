@@ -1,4 +1,4 @@
-{
+  {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Mint Starter Kit",
@@ -14,11 +14,11 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Use Cases",
-            "pages": [
-              "export-control"
-            ]
-          },
+        "group": "Use Cases",
+        "pages": [
+          "use-cases/export-control"
+          ]
+},
           {
             "group": "Getting started",
             "pages": [
