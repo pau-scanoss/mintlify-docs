@@ -20,7 +20,7 @@
           ]
 },
           {
-            "group": "Getting started",
+            "group": "EXAMPLE Getting started",
             "pages": [
               "index",
               "quickstart",
@@ -29,14 +29,14 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "EXAMPLE Customization",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "EXAMPLE Writing content",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -45,7 +45,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "EXAMPLE AI tools",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
@@ -55,16 +55,16 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "EXAMPLE API reference",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "EXAMPLE API documentation",
             "pages": [
               "api-reference/introduction"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "EXAMPLE Endpoint examples",
             "pages": [
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
